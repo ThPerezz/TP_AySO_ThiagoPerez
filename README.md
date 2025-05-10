@@ -1,1 +1,3 @@
-# TP_AySO_ThiagoPerez
+Alumno: Thiago Perez
+División: 115
+Turno: Mañana
